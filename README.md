@@ -1,4 +1,5 @@
 # cureCancer
+一个智慧集合框架，攻克疾病 A framework of wisdom to conquer diseases
 项目思路：收集DNA与疾病相关的资料、专家、资源，利用集思广益开源攻克疾病
 
 
