@@ -1,4 +1,4 @@
-# cureCancer
+# cureDiseases
 一个智慧集合框架，攻克疾病 A framework of wisdom to conquer diseases
 项目思路：收集DNA与疾病相关的资料、专家、资源，利用集思广益开源攻克疾病
 
@@ -16,4 +16,4 @@ Hello, 666 developers, doctors and fans~ This project is an open source project 
 
 pls check    讨论discuss/脑图cureCancer.xmind
 
-cureCancer,for human
+cureDiseases,for human
